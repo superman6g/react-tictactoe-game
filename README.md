@@ -1,5 +1,4 @@
-# Getting Started with Create React App
-# Getting Started with Create React App Sourcetree test
+# Getting Started with Create React App branch test
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
